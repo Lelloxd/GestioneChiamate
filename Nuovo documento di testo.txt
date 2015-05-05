@@ -1,0 +1,4 @@
+<?php 
+mkdir('upload/', 0755, true);
+echo "fatto";
+?>
